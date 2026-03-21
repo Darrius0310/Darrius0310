@@ -17,7 +17,8 @@
 
 <h2>📄 Certifications:</h2>
 
-  - CompTIA Security+
+  - Cyber Defense Professional
+  - CompTIA Security+ (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
