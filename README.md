@@ -3,11 +3,10 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/Darrius0310/Active-Directory/tree/main)
+  - [Active Directory](https://github.com/Darrius0310/Active-Directory/tree/main)
   
   - [Help Desk Ticketing System](https://github.com/Darrius0310/HDURL)
-  
-  - [User Administration](https://github.com/Darrius0310/UAURL)
+
 
 <h2>👨‍💻 Networking Projects:</h2>
 
