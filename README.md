@@ -1,7 +1,7 @@
 <h1>Hi, I'm Darrius! </h1>
 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 IT Help Desk:</h2>
 
   - [Active Directory](https://github.com/Darrius0310/Active-Directory/tree/main)
   
