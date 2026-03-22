@@ -5,7 +5,7 @@
 
   - [Active Directory](https://github.com/Darrius0310/Active-Directory/tree/main)
   
-  - [Help Desk Ticketing System](https://github.com/Darrius0310/HDURL)
+  - [Help Desk Ticketing System](https://github.com/Darrius0310/Help-Desk-Ticketing-System)
 
 
 <h2>👨‍💻 Networking Projects:</h2>
