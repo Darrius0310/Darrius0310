@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-  - [Network Installation & Configuration](https://github.com/Darrius0310/ICURL) Under Maintenance
+  - [Network Installation & Configuration](https://github.com/Darrius0310/Network-Installation-and-Configuration)
   
   - [Network Monitoring](https://github.com/Darrius0310/NMURL) Under Maintenance
 
